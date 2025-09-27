@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 import { VitePWA } from 'vite-plugin-pwa'; // <-- Yorumu kaldır
 
 export default defineConfig({
-  base: '/parmak-futbolu-js/', 
+  base: '/parmak-futbolu-js-2/', 
   
   plugins: [
     react(),
